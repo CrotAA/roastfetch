@@ -1,4 +1,4 @@
-```markdown
+
 # Roastfetch
 
 **neofetch 已死，roastfetch 当立。**
