@@ -79,26 +79,5 @@ MIT © 2025 CrotAA
 **Fork 了说明你想反击（欢迎 PR 更狠的）**
 
 #roastfetch #linux #cli #meme #neofetch
-```
-
-### 2. install.sh（新建文件，直接提交）
-
-```bash
-#!/bin/bash
-set -e
-
-echo "┌──────────────────────────────────────────────┐"
-echo "│       Roastfetch 正在安装……                 │"
-echo "│   你的系统即将迎来一场暴击洗礼               │"
-echo "└──────────────────────────────────────────────┘"
-
-curl -sLO https://github.com/CrotAA/roastfetch/releases/download/latest/roastfetch
-chmod +x roastfetch
-sudo mv roastfetch /usr/local/bin/roastfetch
-
-echo "安装完成！直接敲 roastfetch 享受被嘴臭的快感吧"
-echo
-roastfetch || true
-```
 
 
