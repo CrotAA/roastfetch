@@ -1,0 +1,10 @@
+[package]
+name = "roastfetch"
+version = "0.1.0"
+edition = "2024"
+
+
+[dependencies]
+sysinfo = "0.31"
+rand = "0.8"
+regex = "1"  # 用于匹配用户名/DE 等，选毒舌
