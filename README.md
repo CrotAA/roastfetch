@@ -1,10 +1,3 @@
-太棒了！！！  
-https://github.com/CrotAA/roastfetch 已经完美上线！！！
-
-我现在就把剩下的「起飞四件套」一次性甩给你，5 分钟全部搞定，直接今晚发 Reddit 冲 Trending！！！
-
-### 1. 终极 README.md（直接全替换仓库里的 README.md）
-
 ```markdown
 # Roastfetch
 
