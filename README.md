@@ -12,41 +12,8 @@ roastfetch
 ### 真实受害者现场
 
 ```
-crot@fedora:~/code/roastfetch$ cargo run --release
-   Compiling roastfetch v0.1.0 (/home/crot/code/roastfetch)
-    Finished `release` profile [optimized] target(s) in 0.41s
-     Running `target/release/roastfetch`
- ██████╗  ██████╗   █████╗ ███████╗████████╗
-██╔══██╗██╔═══██╗██╔══██╗██╔════╝╚══██╔══╝
-███████║██║   ██║███████║███████╗  ██║   
-██╔══██║██║   ██║██╔══██║╚════██║  ██║   
-██║  ██║╚██████╔╝██║  ██║███████║  ██║   
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝  ╚═╝   
-               ROASTFETCH v1.1 - 嘴臭你的破系统
 
-                
 
-/usr/bin/dpkg
-/usr/bin/rpm
-which: no pacman in (/home/crot/.vscode/extensions/vadimcn.vscode-lldb-1.12.0/bin:/home/crot/.cargo/bin:/home/crot/.local/bin:/home/crot/bin:/usr/local/bin:/usr/bin)
-/usr/bin/flatpak
-which: no snap in (/home/crot/.vscode/extensions/vadimcn.vscode-lldb-1.12.0/bin:/home/crot/.cargo/bin:/home/crot/.local/bin:/home/crot/bin:/usr/local/bin:/usr/bin)
-  crot@废物认证通过
-  OS → Fedora Linux 43 (Workstation Edition) (2025年了，还在用？丢人)
-  DE/WM → GNOME (审美被狗吃了)
-  内存 → 68.6% (9479/13811 GB) (电脑快炸了)
-  硬盘 → 217G 可用 / 298G 总 (该删资源了兄弟)
-  软件包 → 2232 个 (你这是电脑还是仓库？)
-
-   ▶ GNOME 用户：味儿真大，扩展装满还卡
-   ▶ Fedora：Red Hat 的实验田，你是小白鼠？
-   ▶ 你的名字：生成器随机？难怪代码也随机
-
-   ROASTED 成功！明天继续来送
-crot@fedora:~/code/roastfetch$ cargo run --release
-   Compiling roastfetch v0.1.0 (/home/crot/code/roastfetch)
-    Finished `release` profile [optimized] target(s) in 0.40s
-     Running `target/release/roastfetch`
 ██████╗  ██████╗  █████╗ ███████╗████████╗
 ██║  ██║██╔═══██╗██╔══██╗██╔════╝╚══██╔══╝
 ██████╔╝██║   ██║███████║███████╗  ██║   
@@ -55,13 +22,7 @@ crot@fedora:~/code/roastfetch$ cargo run --release
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝  ╚═╝   
                ROASTFETCH v1.1 - 嘴臭你的破系统
 
-                
 
-/usr/bin/dpkg
-/usr/bin/rpm
-which: no pacman in (/home/crot/.vscode/extensions/vadimcn.vscode-lldb-1.12.0/bin:/home/crot/.cargo/bin:/home/crot/.local/bin:/home/crot/bin:/usr/local/bin:/usr/bin)
-/usr/bin/flatpak
-which: no snap in (/home/crot/.vscode/extensions/vadimcn.vscode-lldb-1.12.0/bin:/home/crot/.cargo/bin:/home/crot/.local/bin:/home/crot/bin:/usr/local/bin:/usr/bin)
   crot@废物认证通过
   OS → Fedora Linux 43 (Workstation Edition) (2025年了，还在用？丢人)
   DE/WM → GNOME (审美被狗吃了)
