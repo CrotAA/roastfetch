@@ -12,26 +12,68 @@ roastfetch
 ### 真实受害者现场
 
 ```
-      ██████╗  █████╗  █████╗ ███████╗████████╗
-     ██╔══██╗██╔══██╗██╔══██╗██╔════╝╚══██╔══╝
-     ██████╔╝███████║███████║███████╗   ██║   
-     ██╔══██╗██╔══██║██╔══██║╚════██║   ██║   
-     ██║  ██║██║  ██║██║  ██║███████║   ██║   
-     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   
-             ROASTFETCH v0.1 - 嘴臭你的系统
+crot@fedora:~/code/roastfetch$ cargo run --release
+   Compiling roastfetch v0.1.0 (/home/crot/code/roastfetch)
+    Finished `release` profile [optimized] target(s) in 0.41s
+     Running `target/release/roastfetch`
+ ██████╗  ██████╗   █████╗ ███████╗████████╗
+██╔══██╗██╔═══██╗██╔══██╗██╔════╝╚══██╔══╝
+███████║██║   ██║███████║███████╗  ██║   
+██╔══██║██║   ██║██╔══██║╚════██║  ██║   
+██║  ██║╚██████╔╝██║  ██║███████║  ██║   
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝  ╚═╝   
+               ROASTFETCH v1.1 - 嘴臭你的破系统
 
+                
+
+/usr/bin/dpkg
+/usr/bin/rpm
+which: no pacman in (/home/crot/.vscode/extensions/vadimcn.vscode-lldb-1.12.0/bin:/home/crot/.cargo/bin:/home/crot/.local/bin:/home/crot/bin:/usr/local/bin:/usr/bin)
+/usr/bin/flatpak
+which: no snap in (/home/crot/.vscode/extensions/vadimcn.vscode-lldb-1.12.0/bin:/home/crot/.cargo/bin:/home/crot/.local/bin:/home/crot/bin:/usr/local/bin:/usr/bin)
   crot@废物认证通过
-  OS → Fedora Linux 43 (2025年了，还在用？丢人)
-  DE/WM → GNOME (审美水平：幼儿园)
-  内存 → 51.4% (7092/13811 GB)
+  OS → Fedora Linux 43 (Workstation Edition) (2025年了，还在用？丢人)
+  DE/WM → GNOME (审美被狗吃了)
+  内存 → 68.6% (9479/13811 GB) (电脑快炸了)
   硬盘 → 217G 可用 / 298G 总 (该删资源了兄弟)
-  软件包 → 2230 个 (你这是仓库还是电脑？)
+  软件包 → 2232 个 (你这是电脑还是仓库？)
 
-  » GNOME？2025 年了，还在追逐鼠标阴影？
-  » Fedora 41？升级啊兄弟，别卡在旧版摆烂
-  » 用户名 'crot'？听起来像 'croissant' 的失败版
+   ▶ GNOME 用户：味儿真大，扩展装满还卡
+   ▶ Fedora：Red Hat 的实验田，你是小白鼠？
+   ▶ 你的名字：生成器随机？难怪代码也随机
 
-  ♥ 你已经成功被 roast 了，明天再来哦~
+   ROASTED 成功！明天继续来送
+crot@fedora:~/code/roastfetch$ cargo run --release
+   Compiling roastfetch v0.1.0 (/home/crot/code/roastfetch)
+    Finished `release` profile [optimized] target(s) in 0.40s
+     Running `target/release/roastfetch`
+██████╗  ██████╗  █████╗ ███████╗████████╗
+██║  ██║██╔═══██╗██╔══██╗██╔════╝╚══██╔══╝
+██████╔╝██║   ██║███████║███████╗  ██║   
+██╔══██╗██║   ██║██╔══██║╚════██║  ██║   
+██║  ██║╚██████╔╝██║  ██║███████║  ██║   
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝  ╚═╝   
+               ROASTFETCH v1.1 - 嘴臭你的破系统
+
+                
+
+/usr/bin/dpkg
+/usr/bin/rpm
+which: no pacman in (/home/crot/.vscode/extensions/vadimcn.vscode-lldb-1.12.0/bin:/home/crot/.cargo/bin:/home/crot/.local/bin:/home/crot/bin:/usr/local/bin:/usr/bin)
+/usr/bin/flatpak
+which: no snap in (/home/crot/.vscode/extensions/vadimcn.vscode-lldb-1.12.0/bin:/home/crot/.cargo/bin:/home/crot/.local/bin:/home/crot/bin:/usr/local/bin:/usr/bin)
+  crot@废物认证通过
+  OS → Fedora Linux 43 (Workstation Edition) (2025年了，还在用？丢人)
+  DE/WM → GNOME (审美被狗吃了)
+  内存 → 66.9% (9233/13811 GB) (电脑快炸了)
+  硬盘 → 217G 可用 / 298G 总 (该删资源了兄弟)
+  软件包 → 2232 个 (你这是电脑还是仓库？)
+
+   ▶ GNOME？2025 年了，还在追逐鼠标阴影？
+   ▶ Fedora 41？升级啊兄弟，别卡在旧版摆烂
+   ▶ 你的名字：生成器随机？难怪代码也随机
+
+   ROASTED 成功！明天继续来送
 ```
 
 ### 特性
